@@ -37,5 +37,5 @@ The goal of this project is to develop a machine learning-based algorithm for pr
 - Developing a version that supports options and cryptocurrencies.
 
 ## Additional Documentation
-The project is documented on GitHub: [Final-Project](https://github.com/sivanf8/Profitprophet.git)
+The project is documented on GitHub: [ProphitProphet](https://github.com/sivanf8/ProphitProphet)
 
