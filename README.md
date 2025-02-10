@@ -1,4 +1,3 @@
-# Final_Project_ProphitProphet
 # Stock Prediction Algorithm - Project No. 23-2-1-2973
 
 ## Project Description
