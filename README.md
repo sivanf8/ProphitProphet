@@ -26,19 +26,6 @@ The goal of this project is to develop a machine learning-based algorithm for pr
   - `sklearn`
   - `requests`
 
-To install all dependencies:
-```bash
-pip install -r requirements.txt
-```
-
-## Usage Instructions
-1. Run the main script:
-   ```bash
-   python main.py
-   ```
-2. Enter the stock ticker and the number of days to forecast.
-3. View graphical forecasts and accuracy metrics.
-
 ## Results & Conclusions
 - The algorithm achieved an average prediction accuracy of 86%.
 - Accuracy decreases as the forecast horizon increases.
@@ -50,5 +37,5 @@ pip install -r requirements.txt
 - Developing a version that supports options and cryptocurrencies.
 
 ## Additional Documentation
-The project is documented on GitHub: [Final-Project](https://github.com/sivanf8/Final-Project.git)
+The project is documented on GitHub: [Final-Project](https://github.com/sivanf8/Profitprophet.git)
 
