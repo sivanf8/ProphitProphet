@@ -39,3 +39,4 @@ The goal of this project is to develop a machine learning-based algorithm for pr
 ## Additional Documentation
 The project is documented on GitHub: [ProphitProphet](https://github.com/sivanf8/ProphitProphet)
 
+Authors: Sivan Farada & Shlomi Kuzari
